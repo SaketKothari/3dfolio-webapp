@@ -14,7 +14,6 @@ import {
   nodejs,
   mongodb,
   git,
-  figma,
   docker,
   accenture,
   sodainmind,
@@ -23,7 +22,6 @@ import {
   project_3,
   project_4,
   project_5,
-  threejs,
 } from '../assets';
 
 export const navLinks = [
@@ -106,16 +104,8 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: 'Three JS',
-    icon: threejs,
-  },
-  {
     name: 'git',
     icon: git,
-  },
-  {
-    name: 'figma',
-    icon: figma,
   },
   {
     name: 'docker',
