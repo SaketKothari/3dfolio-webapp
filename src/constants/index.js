@@ -4,17 +4,10 @@ import {
   creator,
   web,
   javascript,
-  typescript,
-  html,
-  css,
   cpp,
   reactjs,
-  redux,
-  tailwind,
   nodejs,
   mongodb,
-  git,
-  docker,
   accenture,
   sodainmind,
   project_1,
@@ -68,32 +61,12 @@ const technologies = [
     icon: cpp,
   },
   {
-    name: 'HTML 5',
-    icon: html,
-  },
-  {
-    name: 'CSS 3',
-    icon: css,
-  },
-  {
     name: 'JavaScript',
     icon: javascript,
   },
   {
-    name: 'TypeScript',
-    icon: typescript,
-  },
-  {
     name: 'React JS',
     icon: reactjs,
-  },
-  {
-    name: 'Redux Toolkit',
-    icon: redux,
-  },
-  {
-    name: 'Tailwind CSS',
-    icon: tailwind,
   },
   {
     name: 'Node JS',
@@ -102,14 +75,6 @@ const technologies = [
   {
     name: 'MongoDB',
     icon: mongodb,
-  },
-  {
-    name: 'git',
-    icon: git,
-  },
-  {
-    name: 'docker',
-    icon: docker,
   },
 ];
 
