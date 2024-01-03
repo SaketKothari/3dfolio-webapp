@@ -49,10 +49,6 @@ const services = [
     title: 'Backend Developer',
     icon: backend,
   },
-  {
-    title: 'React Native Developer',
-    icon: mobile,
-  },
 ];
 
 const technologies = [
@@ -90,7 +86,6 @@ const experiences = [
       'Writing clean, efficient, and well-documented code that adhered to industry standards and best practices.',
       'I successfully delivered several small features and enhancements that improved the overall user experience of the website.',
       'Implementing responsive design and ensuring cross-browser compatibility.',
-      'Participating in code reviews and providing constructive feedback to other developers.',
     ],
   },
   {
@@ -101,9 +96,9 @@ const experiences = [
     date: 'Feb 2022 - Present',
     points: [
       'Completed the training on CloudNative Microservices which is a powerful approach for building highly scalable, resilient software applications that can adapt to changing business needs and handle high traffic loads with ease.',
-      'Developing and maintaining web applications using React.js and other related technologies.',
+      'Developed AG Grid React to elevate user experience by seamlessly implementing, sorting, filtering, and customizable data visualization in web application, optimizing data presentation and interactivity.',
+      'Orchestrated the seamless integration of RESTful APIs within a React application, optimizing for type-safe interactions through TypeScript',
       'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-      'Working on Microservices using Spring Boot.',
     ],
   },
 ];
