@@ -15,6 +15,7 @@ import {
   project_3,
   project_4,
   project_5,
+  project_6,
 } from '../assets';
 
 export const navLinks = [
@@ -171,38 +172,26 @@ const projects = [
     live_code_link: 'https://amazon-next-saketkothari.vercel.app/',
   },
   {
-    name: 'Streaming Platform Webapp (Netflix Clone)',
+    name: 'Streamwave',
     description:
-      'A streaming platform that replicates the core features and functionalities of Netflix. The platform offers a wide range of movies, TV shows, and other video content that users can access and watch online, anytime and anywhere. Build using MERN Stack.',
+      'Streamwave is a video streaming web app akin to YouTube, leveraging the power of React. Viewers can explore a vast library of content, enjoy high-quality streaming, and interact through comments, likes, and subscriptions. The application boasts an intuitive user interface, responsive design, and robust video playback capabilities, delivering an engaging and immersive video-sharing experience.',
     tags: [
       {
-        name: 'mongodb',
+        name: 'redux',
         color: 'green-text-gradient',
       },
       {
-        name: 'express',
+        name: 'live-chat',
         color: 'orange-text-gradient',
       },
       {
         name: 'react',
         color: 'blue-text-gradient',
       },
-      {
-        name: 'node.js',
-        color: 'white-text-gradient',
-      },
-      {
-        name: 'sass',
-        color: 'pink-text-gradient',
-      },
-      {
-        name: 'jwt',
-        color: 'black-text-gradient',
-      },
     ],
     image: project_2,
-    source_code_link: 'https://github.com/SaketKothari/netflix-clone-webapp',
-    live_code_link: 'https://github.com/SaketKothari/netflix-clone-webapp',
+    source_code_link: 'https://github.com/SaketKothari/streamwave',
+    live_code_link: 'https://streamwave-sk.vercel.app/',
   },
   {
     name: 'Ecommerce Store API',
@@ -288,7 +277,29 @@ const projects = [
     ],
     image: project_5,
     source_code_link: 'https://github.com/SaketKothari/video-chat-app',
-    live_code_link: 'https://video-chat-app-sk.netlify.app/',
+    live_code_link: 'https://video-chat-webapp.vercel.app/',
+  },
+  {
+    name: 'Postman Clone',
+    description:
+      'Interact with requests and examine responses: craft and store various request types, establish custom methods, and scrutinize status codes, response durations, and response dimensions, akin to a Postman-inspired experience.',
+    tags: [
+      {
+        name: 'javascript',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'bootstrap',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'json',
+        color: 'pink-text-gradient',
+      },
+    ],
+    image: project_6,
+    source_code_link: 'https://github.com/SaketKothari/postman-clone',
+    live_code_link: 'https://github.com/SaketKothari/postman-clone',
   },
 ];
 
